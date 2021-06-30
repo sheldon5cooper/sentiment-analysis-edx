@@ -1,0 +1,8 @@
+install.packages(tidyverse)
+install.packages(ggplot2)
+install.packages(lubridate)
+install.packages(tidyr)
+install.packages(scales)
+install.packages(dslabs)
+install.packages(tidytext)
+install.packages(textdata)
